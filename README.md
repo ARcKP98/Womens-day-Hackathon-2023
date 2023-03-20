@@ -246,6 +246,9 @@ script.js validation
 ![jshint](assets/readme.doc/jshint-validation.png)
 
 
-CREDITS TO BE ADDED!!!
+CREDITS
+- BootStrap; Documentation for certain project elements. 
+- W3Schools: For JS regarding creating the back to top button.
+- Everyone involved in creating this project. 
 
 # Thank you. 
